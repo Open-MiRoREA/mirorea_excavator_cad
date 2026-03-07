@@ -1,0 +1,2 @@
+# mirorea_excavator_cad
+MiRoREA Excavatorの3Dプリント部品のCADデータ
